@@ -1,6 +1,6 @@
 {
     "assets": [
-        { "id": "loft-gltf", "src": "https://raw.githubusercontent.com/tekkdesign/INTEL/main/Layout_Test_Loft2.gltf"},
+        { "id": "loft-gltf", "src": "https://raw.githubusercontent.com/tekkdesign/INTEL/main/Loft_Venue_Textured.gltf"},
         { "id": "loft-navmesh-gltf", "src": "https://raw.githubusercontent.com/tekkdesign/INTEL/main/LoftNavMesh.gltf"}
     ],
     "entities": [
