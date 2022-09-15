@@ -5,7 +5,7 @@
     ],
     "entities": [
         { "id":"loft", "gltf-model": "#loft-gltf", "scale":"1 1 1", "position":"0 0 0", "shadow":"receive: true; cast: true;"},
-        { "id":"loft-navmesh", "class":"navmesh", "gltf-model":"#loft-navmesh-gltf", "position":"0 10 0", "nav-mesh":true, "visible":false},
+        { "id":"loft-navmesh", "class":"navmesh", "gltf-model":"#loft-navmesh-gltf", "position":"0 0 0", "nav-mesh":true, "visible":false},
         { "id":"sky", "geometry": { "primitive": "sky"}, "radius":"5000", "material":"fog: false;", "src":"https://xrpanet.s3.us-west-1.amazonaws.com/skybox.jpeg", "scale":""}
     ]
   }
