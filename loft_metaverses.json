@@ -3,7 +3,6 @@
         { "id": "loft-gltf", "src": "https://raw.githubusercontent.com/tekkdesign/INTEL/main/Loft_Venue_Textured_Meters_1024.gltf"},
         { "id": "loft-navmesh-gltf", "src": "https://raw.githubusercontent.com/tekkdesign/INTEL/main/LoftNavMesh.gltf"},
         { "id": "shoe-gltf", "src": "https://raw.githubusercontent.com/tekkdesign/INTEL/main/textured_mesh.gltf"}
-       
     ],
     "entities": [
         { "id":"loft", "gltf-model": "#loft-gltf", "scale":"1 1 1", "position":"0 0 0", "shadow":"receive: true; cast: true;"},
