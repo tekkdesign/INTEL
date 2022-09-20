@@ -1,6 +1,6 @@
 {
     "assets": [
-        { "id": "gallery-gltf", "src": "https://raw.githubusercontent.com/tekkdesign/INTEL/main/GalleryScaled.gltf"},
+        { "id": "gallery-gltf", "src": "https://raw.githubusercontent.com/tekkdesign/INTEL/main/Gallery_Loft_Layout.gltf"},
         { "id": "gallery-navmesh-gltf", "src": "https://raw.githubusercontent.com/tekkdesign/INTEL/main/GalleryNavMesh.gltf"}
     ],
     "entities": [
