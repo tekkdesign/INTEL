@@ -6,7 +6,7 @@
     ],
     "entities": [
         { "id":"loft", "gltf-model": "#loft-gltf", "scale":"1 1 1", "position":"0 0 0",  "shadow":"receive: true; cast: true;"},
-        { "id":"light", "geometry": { "primitive": "light"}, "type":"spot", "angle",90, "color":"#F0F", "intensity": "1.5", "position":"0.5, 0.8, 0.5},
+        { "id":"light", "geometry": { "primitive": "light"}, "type":"spot", "angle",90, "color":"#F0F", "intensity": "1.5", "position":"0.5, 0.8, 0.5"},
         { "id":"shoe", "gltf-model": "#shoe-gltf", "scale":"0.5 0.5 0.5", "position":"-3.26 1 -1.9", "rotation":"-90 90 0",  "shadow":"receive: true; cast: true;"},
         { "id":"loft-navmesh", "gltf-model":"#loft-navmesh-gltf", "nav-mesh":true, "visible":false, "position": "0 0 0"},
         { "id":"sky", "geometry": { "primitive": "sky"}, "radius":"5000", "material":"fog: false;", "src":"https://xrpanet.s3.us-west-1.amazonaws.com/skybox.jpeg", "scale":""}
